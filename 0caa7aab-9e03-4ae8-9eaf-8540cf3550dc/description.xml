@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<theme>
+<version><![CDATA[16]]></version>
+<uiVersion>12</uiVersion>
+<author><![CDATA[手机管家]]></author>
+<designer><![CDATA[手机管家]]></designer>
+<title><![CDATA[垃圾清理]]></title>
+<description><![CDATA[清理手机垃圾，一触即达]]></description>
+<typeTag>theme_bind:com.miui.securitycenter</typeTag>
+<frame>0</frame>
+<editable>false</editable>
+<resourceType>widgets</resourceType>
+<authors>
+<author locale="zh_TW"><![CDATA[手機管家]]></author>
+<author locale="bo_CN"><![CDATA[ཁ་པར་དོ་དམ་པ།]]></author>
+<author locale="en_US"><![CDATA[Security]]></author>
+<author locale="ug_CN"><![CDATA[يانفون غوجىدارى]]></author>
+<author locale="zh_CN"><![CDATA[手机管家]]></author>
+</authors>
+<designers>
+<designer locale="zh_TW"><![CDATA[手機管家]]></designer>
+<designer locale="bo_CN"><![CDATA[ཁ་པར་དོ་དམ་པ།]]></designer>
+<designer locale="en_US"><![CDATA[Security]]></designer>
+<designer locale="ug_CN"><![CDATA[يانفون غوجىدارى]]></designer>
+<designer locale="zh_CN"><![CDATA[手机管家]]></designer>
+</designers>
+<titles>
+<title locale="zh_TW"><![CDATA[垃圾清理繁体]]></title>
+<title locale="bo_CN"><![CDATA[གད་སྙིགས་གཙང་སེལ།]]></title>
+<title locale="en_US"><![CDATA[Cleaner]]></title>
+<title locale="ug_CN"><![CDATA[ئەخلەت تازىلاش]]></title>
+<title locale="zh_CN"><![CDATA[垃圾清理]]></title>
+</titles>
+<descriptions>
+<description locale="zh_TW"><![CDATA[清理手機垃圾，一觸即達]]></description>
+<description locale="bo_CN"><![CDATA[ཁ་པར་གད་སྙིགས་གཙང་སེལ་བྱེད་པར་མཐེབ་གཅིག་མནན་ཚེ་འགྲིག]]></description>
+<description locale="en_US"><![CDATA[Clear trash on your device]]></description>
+<description locale="ug_CN"><![CDATA[يانفون ئەخلىتىنى بىر كونۇپكىدا تازىلاش]]></description>
+<description locale="zh_CN"><![CDATA[清理手机垃圾，一触即达]]></description>
+</descriptions>
+</theme>
