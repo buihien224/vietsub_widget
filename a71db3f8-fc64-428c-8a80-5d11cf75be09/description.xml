@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<theme>
+<version><![CDATA[5]]></version>
+<uiVersion>12</uiVersion>
+<author><![CDATA[手机管家]]></author>
+<designer><![CDATA[手机管家]]></designer>
+<title><![CDATA[一键加速]]></title>
+<description><![CDATA[手机提速，一键释放内存]]></description>
+<typeTag>theme_bind:com.miui.securitycenter</typeTag>
+<frame>0</frame>
+<editable>false</editable>
+<authors>
+<author locale="zh_TW"><![CDATA[手機管家]]></author>
+<author locale="bo_CN"><![CDATA[ཁ་པར་དོ་དམ་པ།]]></author>
+<author locale="en_US"><![CDATA[Bhlnk]]></author>
+<author locale="ug_CN"><![CDATA[يانفون غوجىدارى]]></author>
+<author locale="zh_CN"><![CDATA[手机管家]]></author>
+</authors>
+<designers>
+<designer locale="zh_TW"><![CDATA[手機管家]]></designer>
+<designer locale="bo_CN"><![CDATA[ཁ་པར་དོ་དམ་པ།]]></designer>
+<designer locale="en_US"><![CDATA[bhlnk]]></designer>
+<designer locale="ug_CN"><![CDATA[يانفون غوجىدارى]]></designer>
+<designer locale="zh_CN"><![CDATA[手机管家]]></designer>
+</designers>
+<titles>
+<title locale="zh_TW"><![CDATA[一鍵加速]]></title>
+<title locale="bo_CN"><![CDATA[འཐེབ་གཅིག་མྱུར་གཏོང་།]]></title>
+<title locale="en_US"><![CDATA[Tăng lực]]></title>
+<title locale="ug_CN"><![CDATA[بىر كونۇپكىدا تېزلىتىش]]></title>
+<title locale="zh_CN"><![CDATA[一键加速]]></title>
+</titles>
+<descriptions>
+<description locale="zh_TW"><![CDATA[手機加速，一鍵釋放記憶體]]></description>
+<description locale="bo_CN"><![CDATA[ཁ་པར་མྱུར་གཏོང་། མཐེབ་གཅིག་གིས་ནང་གསོག་རྒྱ་བསྐྱེད།]]></description>
+<description locale="en_US"><![CDATA[ún bò hút để tăng lực]]></description>
+<description locale="ug_CN"><![CDATA[يانفوننى تېزلىتىپ، بىر كونۇپكىدا بوشلۇقنى قويۇپ بېرىدۇ]]></description>
+<description locale="zh_CN"><![CDATA[手机提速，一键释放内存]]></description>
+</descriptions>
+</theme>
