@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<theme>
+<version><![CDATA[16]]></version>
+<uiVersion>12</uiVersion>
+<author><![CDATA[手机管家]]></author>
+<designer><![CDATA[手机管家]]></designer>
+<title><![CDATA[手机管家]]></title>
+<description><![CDATA[快速管理手机，了解手机状态]]></description>
+<typeTag>theme_bind:com.miui.securitycenter</typeTag>
+<frame>0</frame>
+<editable>false</editable>
+<resourceType>widgets</resourceType>
+<authors>
+<author locale="zh_TW"><![CDATA[手機管家]]></author>
+<author locale="bo_CN"><![CDATA[ཁ་པར་དོ་དམ་པ།]]></author>
+<author locale="en_US"><![CDATA[Security]]></author>
+<author locale="ug_CN"><![CDATA[يانفون غوجىدارى]]></author>
+<author locale="zh_CN"><![CDATA[手机管家]]></author>
+</authors>
+<designers>
+<designer locale="zh_TW"><![CDATA[手機管家]]></designer>
+<designer locale="bo_CN"><![CDATA[ཁ་པར་དོ་དམ་པ།]]></designer>
+<designer locale="en_US"><![CDATA[Security]]></designer>
+<designer locale="ug_CN"><![CDATA[يانفون غوجىدارى]]></designer>
+<designer locale="zh_CN"><![CDATA[手机管家]]></designer>
+</designers>
+<titles>
+<title locale="zh_TW"><![CDATA[手機管家]]></title>
+<title locale="bo_CN"><![CDATA[ཁ་པར་དོ་དམ་པ།]]></title>
+<title locale="en_US"><![CDATA[Security]]></title>
+<title locale="ug_CN"><![CDATA[يانفون غوجىدارى]]></title>
+<title locale="zh_CN"><![CDATA[手机管家]]></title>
+</titles>
+<descriptions>
+<description locale="zh_TW"><![CDATA[快速管理手機，瞭解手機狀態]]></description>
+<description locale="bo_CN"><![CDATA[ཁ་པར་མགྱོགས་མྱུར་དོ་དམ་བྱས་ཏེ་གནས་སྟངས་རྒྱུས་ལོན་བྱ།]]></description>
+<description locale="en_US"><![CDATA[Optimize your device and boost performance]]></description>
+<description locale="ug_CN"><![CDATA[يانفوننى تېزدىن باشقۇرۇپ، يانفون ھالىتىنى چۈشىنىڭ]]></description>
+<description locale="zh_CN"><![CDATA[快速管理手机，了解手机状态]]></description>
+</descriptions>
+</theme>

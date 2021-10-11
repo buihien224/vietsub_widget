@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<theme>
+<version><![CDATA[15]]></version>
+<uiVersion>12</uiVersion>
+<author><![CDATA[手机管家]]></author>
+<designer><![CDATA[手机管家]]></designer>
+<title><![CDATA[手机健康]]></title>
+<description><![CDATA[桌面上的手机健康管家]]></description>
+<typeTag>theme_bind:com.miui.securitycenter</typeTag>
+<frame>0</frame>
+<editable>false</editable>
+<resourceType>widgets</resourceType>
+<authors>
+<author locale="zh_TW"><![CDATA[手機管家]]></author>
+<author locale="bo_CN"><![CDATA[ཁ་པར་དོ་དམ་པ།]]></author>
+<author locale="en_US"><![CDATA[Security]]></author>
+<author locale="ug_CN"><![CDATA[يانفون غوجىدارى]]></author>
+<author locale="zh_CN"><![CDATA[手机管家]]></author>
+</authors>
+<designers>
+<designer locale="zh_TW"><![CDATA[手機管家]]></designer>
+<designer locale="bo_CN"><![CDATA[ཁ་པར་དོ་དམ་པ།]]></designer>
+<designer locale="en_US"><![CDATA[Security]]></designer>
+<designer locale="ug_CN"><![CDATA[يانفون غوجىدارى]]></designer>
+<designer locale="zh_CN"><![CDATA[手机管家]]></designer>
+</designers>
+<titles>
+<title locale="zh_TW"><![CDATA[手機健康]]></title>
+<title locale="bo_CN"><![CDATA[ཁ་པར་བདེ་ཐང་།]]></title>
+<title locale="en_US"><![CDATA[Security]]></title>
+<title locale="ug_CN"><![CDATA[يانفون ساغلاملىقى]]></title>
+<title locale="zh_CN"><![CDATA[手机健康]]></title>
+</titles>
+<descriptions>
+<description locale="zh_TW"><![CDATA[桌面上的手機健康管家]]></description>
+<description locale="bo_CN"><![CDATA[ཅོག་ངོས་ཁ་པར་བདེ་ཐང་དོ་དམ།]]></description>
+<description locale="en_US"><![CDATA[View security info and optimize your device]]></description>
+<description locale="ug_CN"><![CDATA[ئېكران يۈزىدىكى يانفون ساغلاملىقى غوجىدارى]]></description>
+<description locale="zh_CN"><![CDATA[桌面上的手机健康管家]]></description>
+</descriptions>
+</theme>
